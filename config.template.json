@@ -1,0 +1,12 @@
+{
+  "camera1": {
+    "ip": "rtsp://YOUR_CAMERA_RTSP_ADDRESS",
+    "stream_key": "YOUR_STREAM_KEY",
+    "program_location": "/home/YOUR_PROGRAM_DIR/ffmpeg1"
+  },
+  "camera2": {
+    "ip": "rtsp://YOUR_CAMERA_RTSP_ADDRESS",
+    "stream_key": "YOUR_STREAM_KEY",
+    "program_location": "/home/YOUR_PROGRAM_DIR/ffmpeg2"
+  }
+}
